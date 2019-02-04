@@ -34,6 +34,15 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'simple_token_authentication', '~> 1.0'
 gem 'react-rails'
+gem 'bootstrap-sass-rails', '~> 3.1'
+gem 'bootstrap-social-rails'
+gem 'font-awesome-rails'
+gem 'omniauth'
+gem "omniauth-google-oauth2"
+gem 'omniauth-facebook'
+gem 'omniauth-twitter'
+gem 'omniauth-linkedin'
+gem 'omniauth-github'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
